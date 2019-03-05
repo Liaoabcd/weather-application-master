@@ -1,1 +1,1 @@
-![weather](display/WeatherAPP_demo.png)
+![weather](display/WeatherAPP_demo.gif)
